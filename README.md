@@ -1,0 +1,1 @@
+quick string manipulation exercise
